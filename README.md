@@ -1,7 +1,7 @@
 # java-visitor-pattern-only skeleton
 
 Visitor pattern have been implemented. Only the skeleton of the project written. Real busniss logic yet to implemented as required. Let me describe the structure.
-### Abstruct customer class:
+### Abstract customer class:
 This class should define a customer.
 However I followed the principle "Open for extention close for modification"
 To do this, Customer class accept a Visitor class Object.
